@@ -1,0 +1,14 @@
+/home/katzi/C#/task/bin/Debug/net8.0/task
+/home/katzi/C#/task/bin/Debug/net8.0/task.deps.json
+/home/katzi/C#/task/bin/Debug/net8.0/task.runtimeconfig.json
+/home/katzi/C#/task/bin/Debug/net8.0/task.dll
+/home/katzi/C#/task/bin/Debug/net8.0/task.pdb
+/home/katzi/C#/task/obj/Debug/net8.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/home/katzi/C#/task/obj/Debug/net8.0/task.AssemblyInfoInputs.cache
+/home/katzi/C#/task/obj/Debug/net8.0/task.AssemblyInfo.cs
+/home/katzi/C#/task/obj/Debug/net8.0/task.csproj.CoreCompileInputs.cache
+/home/katzi/C#/task/obj/Debug/net8.0/task.dll
+/home/katzi/C#/task/obj/Debug/net8.0/refint/task.dll
+/home/katzi/C#/task/obj/Debug/net8.0/task.pdb
+/home/katzi/C#/task/obj/Debug/net8.0/task.genruntimeconfig.cache
+/home/katzi/C#/task/obj/Debug/net8.0/ref/task.dll
